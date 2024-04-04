@@ -1,4 +1,4 @@
-### Olá, eu sou o Victor, futuro desenvolvedor Full-Stack!
+### Olá, eu sou o Victor, futuro desenvolvedor!
 ##
 Seja bem vindo ao meu perfil, sou um estudante de Ciência da Computação que tem como objetivo começar na área de Desenvolvimento, atualmente minhas principais linguagem estão listadas abaixo :)
 <div style="display: inline_block"><br>
